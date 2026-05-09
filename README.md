@@ -7,7 +7,7 @@ Software Engineer · AI & Full-Stack · Building things that think
 BME grad gone full-stack. I build AI-integrated apps to learn by doing — currently working on an agentic project management tool with local LLMs, RAG, and real-time streaming.
 
 * 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [here](http://aphiwish.com)
+* 🖥️  See my portfolio at [aphiwish.com](http://aphiwish.com)
 * ✉️  You can contact me at [aphiwish.aph@gmail.com](mailto:aphiwish.aph@gmail.com)
 * 🚀  I'm currently working on [ProjectHub](http://github.com/Aphiwish-Aphisaksiri/ProjectHub)
 * 🧠  I'm currently learning Next.JS
